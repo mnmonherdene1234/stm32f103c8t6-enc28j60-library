@@ -1,0 +1,7 @@
+../Core/Src/enc28j60.c:13:6:enc28j60_init	0	static
+../Core/Src/enc28j60.c:17:6:enc28j60_cs_on	0	static
+../Core/Src/enc28j60.c:21:6:enc28j60_cs_off	0	static
+../Core/Src/enc28j60.c:25:9:enc28j60_read_eth	16	static
+../Core/Src/enc28j60.c:37:6:enc28j60_write_eth	24	static
+../Core/Src/enc28j60.c:46:6:enc28j60_system_reset_command	16	static
+../Core/Src/enc28j60.c:54:6:enc28j60_read_buffer	24	static
